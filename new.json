@@ -1,0 +1,10 @@
+{
+	"Full_name": 
+       {
+        "First_name": "Павел",
+        "Last_name": "Орехов",
+        "Patronymic_name": "Александрович"},
+	"Age": 40,	
+	"Quantity_of_pets": 1,
+	"Future_salary_wanted": "100000 руб."
+	}
